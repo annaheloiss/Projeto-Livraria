@@ -6,7 +6,7 @@
 ### Pré-requisitos
 - NodeJS instalado na maquina
 - Instalar dependecias: npm install
-- Possui Cluster no <a href="https://www.mongodb.com/atlas">MongoDB Atlas</a>
+- Possuir Cluster no <a href="https://www.mongodb.com/atlas">MongoDB Atlas</a>
 
 
 
